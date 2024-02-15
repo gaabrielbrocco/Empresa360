@@ -27,7 +27,7 @@ Caso precise ser feita uma alteração de porta utilize o comando abaixo:
 npm run serve -- --port exemplo: 8082
 ```
 
-### ( Para Desenvolvedores ): Caso queira fazer a build da aplicação.
+### ( Para Desenvolvedores ): Fazer a build da aplicação:
 ```
 npm run build
 ```
