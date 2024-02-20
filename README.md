@@ -18,7 +18,7 @@ Node: 16.16.0
 npm install
 ```
 
-### Entre do diretório do projeto e rode o comando para servir a aplicação.
+### Entre no diretório do projeto e rode o comando para servir a aplicação.
 ```
 npm run serve
 ```
